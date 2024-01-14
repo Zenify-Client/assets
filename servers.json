@@ -8,5 +8,10 @@
     "name": "Minemen Club",
     "ip": "minemen.club",
     "icon": "https://minemen.club/img/favicon.ico"
+  },
+  {
+    "name": "Spotix",
+    "ip": "spotix.club",
+    "icon": "https://spotix.club/apps/main/public/assets/img/uploads/50c54de0be67e30fe10474db838a554d.png?cache=1705274416"
   }
 ]
