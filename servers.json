@@ -2,11 +2,11 @@
   {
     "name": "Hypixel",
     "ip": "mc.hypixel.net",
-    "icon": "https://hypixel.net/styles/hypixel-v2/images/header-logo.png"
+    "icon": "https://hypixel.net/styles/hypixel-v2/images/footer/blue-avatar.png"
   },
   {
     "name": "Minemen Club",
     "ip": "minemen.club",
-    "icon": "https://minemen.club/img/logo-smaller.png"
+    "icon": "https://minemen.club/img/favicon.ico"
   }
 ]
