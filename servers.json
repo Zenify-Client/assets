@@ -13,5 +13,10 @@
     "name": "Spotix",
     "ip": "spotix.club",
     "icon": "https://spotix.club/apps/main/public/assets/img/uploads/50c54de0be67e30fe10474db838a554d.png?cache=1705274416"
+  },
+  {
+    "name": "Alpha HQ",
+    "ip": "alphahq.org",
+    "icon": "https://images-ext-2.discordapp.net/external/IBXQ66YUSpy8BmWLHq49tmVy1pqC6ozmsZX1cO-Zl40/%3Fraw%3Dtrue/https/github.com/LunarClient/ServerMappings/blob/master/servers/alphahq/logo.png?format=webp&quality=lossless&width=640&height=640"
   }
 ]
